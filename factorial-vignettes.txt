@@ -1,0 +1,57 @@
+**A university research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API but the development team did not ask each user if they could use their Tweets in the dataset**. This dataset was originally published **ten years ago** and **has been used by more than 25 other research teams and companies**.
+
+The use of this dataset by a **company** in developing a chat bot for **education and learning** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A commercial research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API but the development team did not ask each user if they could use their Tweets in the dataset**. This dataset was originally published **ten years ago** and **has been used by more than 25 other research teams and companies**.
+
+The use of this dataset by a **company** in developing a chat bot for **education and learning** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A commercial research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API**. This dataset was originally published **five years ago** and **has been used by more than 10 other research teams and companies**.
+
+The use of this dataset by a **company** in developing a chat bot for **education and learning** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A commercial research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API and the development team asked each user if they could use their Tweets in the dataset**. This dataset was originally published **ten years ago** and **has been used by more than 10 other research teams and companies**.
+
+The use of this dataset by a **student / intern** in developing a chat bot for **education and learning** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A commercial research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API but the development team did not ask each user if they could use their Tweets in the dataset**. This dataset was originally published **two years ago** and **hasn't been used by any research team or company yet**.
+
+The use of this dataset by a **company** in developing a chat bot for **education and learning** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A commercial research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API but the development team did not ask each user if they could use their Tweets in the dataset**. This dataset was originally published **five years ago** and **has been used by more than 10 other research teams and companies**.
+
+The use of this dataset by a **student / intern** in developing a chat bot for **use in a larger commercial application** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A university research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API but the development team did not ask each user if they could use their Tweets in the dataset**. This dataset was originally published **ten years ago** and **has been used by more than 10 other research teams and companies**.
+
+The use of this dataset by a **researcher** in developing a chat bot for **use in a larger commercial application** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A university research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API**. This dataset was originally published **two years ago** and **has been used by more than 25 other research teams and companies**.
+
+The use of this dataset by a **student / intern** in developing a chat bot for **education and learning** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A university research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API**. This dataset was originally published **five years ago** and **has been used by more than 25 other research teams and companies**.
+
+The use of this dataset by a **company** in developing a chat bot for **use in a larger commercial application** would concern me.
+
+--------------------------------------------------------------------------------
+
+**A university research team** has created a dataset comprised of millions of public Tweets from thousands of Twitter users. This dataset was created using the **Twitter API**. This dataset was originally published **five years ago** and **has been used by more than 25 other research teams and companies**.
+
+The use of this dataset by a **researcher** in developing a chat bot for **use in a larger commercial application** would concern me.
